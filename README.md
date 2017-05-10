@@ -23,7 +23,7 @@ Welcome to this workshop! Today, we will go trough some of the basic concepts yo
     - `git init .`
 
 4. Create a new file with our first property: 
-    - `echo value=hello! &gt; application.properties`
+    - `echo value=hello! > application.properties`
 
 5. Commit your changes to the local repository 
     - `git add -A`
